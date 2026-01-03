@@ -39,7 +39,7 @@ Barchhav Raj
 ---
 
 ##  Tech Stack
-- **Frontend**: HTML, CSS, JavaScript / React
+- **Frontend**: HTML, JavaScript / React
 - **Backend**:  Java / Python  
 - **Database**: Mongodb
 - **Version Control**: GitHub  
