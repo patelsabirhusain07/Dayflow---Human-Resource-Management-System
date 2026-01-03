@@ -1,0 +1,8 @@
+
+{
+  "name": "Dayflow – Human Resource Management System",
+  "description": "A production-grade HRMS with role-based access, attendance tracking, leave management, and payroll features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
