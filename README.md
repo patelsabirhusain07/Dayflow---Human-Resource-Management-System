@@ -31,9 +31,9 @@ The HRMS provides a single integrated platform where HR managers and employees c
 
 ## TEAM 
 Team member :
-Patel Sabir - Team leader
-Parmar Ridham
-chavda Jaydeep
+Patel Sabir  ,
+Parmar Ridham ,
+chavda Jaydeep ,
 Barchhav Raj
 
 ---
